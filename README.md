@@ -8,3 +8,5 @@ Gears are adjusted manually using new buttons that interface with the ESP32.  Re
 Instantaneous Power (watts) and Instantaneous Cadence are sent to Zwift.
 
 Also tested in NRF Connect to display power and cadence.
+
+The ESP32 was programmed in the Arduino IDE. 
