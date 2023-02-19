@@ -10,3 +10,5 @@ ERG mode is not implemented yet.
 The BLE connection can also be tested in NRF Connect to display power and cadence.
 
 The ESP32 was programmed using the Arduino IDE. 
+
+Fritzing circuit diagram is in the attached ProformESP32_bb.jpg file.
