@@ -16,9 +16,9 @@ boolean powerDebug = false;
 boolean debuggingCad = false;
 boolean adjustBikeTilt = false;
 
-#define FU_B 8    //rear gears shift up button
-#define FD_B 20   //rear gears shift down button
-#define RU_B 21   //rear gears shift up button
+#define FU_B 8    //front gears shift up button, front chainring
+#define FD_B 20   //front gears shift down button
+#define RU_B 21   //rear gears shift up button, rear cassette
 #define RD_B 7    //rear gears shift down button
 #define ENABLE 5  //write enable for RS485
 #define LED 9     //led attached to this pin to indicate activity
